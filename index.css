@@ -1,0 +1,12 @@
+h1 { color: mediumslateblue; }
+
+body { 
+	background: lightcyan;
+	color: mediumslateblue;
+	font-size: 18pt;
+	font-family: 'Quicksand', sans-serif;
+	}
+	
+	a { color: mediumslateblue; 
+	text-decoration: none;}
+	a:hover {color: darkblue; }
